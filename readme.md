@@ -16,7 +16,7 @@ npm install
 You can use below comands to run the program
 
 ```sh
-# run with default parameter
+# run with default params
 npm start
 
 # run with only custom texts params
